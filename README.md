@@ -31,7 +31,7 @@ Download the file attached
 After running the program, you will see a menu like this:
 
 ```
-===== STUDENT TASK MANAGER =====
+STUDENT TASK MANAGEMENT SYSTEM
 1. New Task
 2. View Tasks
 3. Mark Completed
