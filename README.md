@@ -78,6 +78,6 @@ STUDENT TASK MANAGEMENT SYSTEM
 
 ## 🙌 Author
 
-Yashasvi Sharma
-B.Tech CSE (AI & ML)
-VIT Bhopal University
+* Yashasvi Sharma
+* B.Tech CSE (AI & ML)
+* VIT Bhopal University
